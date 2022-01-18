@@ -8,7 +8,7 @@
 
 &#x20;      在BoosIsland上点击相对应的产业板块，选择建造 设立 **开采/养殖**场地 后，即可在该产业上进行开采/养殖。
 
-现有产业 [椰子林](../wan/sheng-chan-sen-lin/) 和  [宝石沙滩](../wan/bao-shi-sha-tan.md)
+现有产业 [生产森林](../wan/sheng-chan-sen-lin/) 和  [宝石沙滩](../wan/bao-shi-sha-tan.md)
 
 
 
