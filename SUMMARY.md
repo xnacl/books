@@ -26,4 +26,3 @@
 ## 社交
 
 * [DIscord](she-jiao/discord.md)
-* [电报群](she-jiao/dian-bao-qun.md)
